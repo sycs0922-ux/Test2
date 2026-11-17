@@ -1,0 +1,5 @@
+shopping_list.json
+shopping_list.*.json
+*.json.tmp
+__pycache__/
+.pytest_cache/
